@@ -18,11 +18,6 @@ This is where I'll be uploading projects, experiments, and analyses I'm currentl
 
 ---
 
-### A Bit About Me
-
-- 📊 I can stare at a dataset for hours and genuinely enjoy it
-- 🌙 SQL at midnight is basically a hobby at this point
----
 
 📬 Want to connect or collaborate?
 
