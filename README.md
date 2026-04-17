@@ -1,4 +1,4 @@
-I'm Mahad, an aspiring Data Analyst based in Karachi, Pakistan.
+I'm Syed Mahad Ur Rayyan, an aspiring Data Analyst based in Karachi, Pakistan.
 
 I mostly work on data stuff — Python, SQL, Power BI, and a bit of machine learning when things get interesting.
 
